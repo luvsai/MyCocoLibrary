@@ -1,0 +1,22 @@
+{
+  "name": "MyCocoLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Lavanya Sai Kumar Kantubhukta/MyCocoLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lavanya Sai Kumar Kantubhukta": "65954982+luvsai@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/Lavanya Sai Kumar Kantubhukta/MyCocoLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyCocoLibrary/Classes/**/*"
+}

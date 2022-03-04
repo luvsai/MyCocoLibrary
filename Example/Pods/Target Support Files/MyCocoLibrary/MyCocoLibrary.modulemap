@@ -1,0 +1,6 @@
+framework module MyCocoLibrary {
+  umbrella header "MyCocoLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

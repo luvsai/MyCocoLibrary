@@ -28,12 +28,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1B8FED6BF815C16553EBCABC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		1B8FED6BF815C16553EBCABC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		1F417CC18834B0D2A14F34C6 /* Pods_MyCocoLibrary_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyCocoLibrary_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C674EDADA94709EB248EC9B /* Pods_MyCocoLibrary_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyCocoLibrary_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		409293CF3C5D24BFFD8DCD7C /* MyCocoLibrary.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MyCocoLibrary.podspec; path = ../MyCocoLibrary.podspec; sourceTree = "<group>"; };
+		409293CF3C5D24BFFD8DCD7C /* MyCocoLibrary.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MyCocoLibrary.podspec; path = ../MyCocoLibrary.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		440E12BB29DC51740A4591B6 /* Pods-MyCocoLibrary_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCocoLibrary_Example.debug.xcconfig"; path = "Target Support Files/Pods-MyCocoLibrary_Example/Pods-MyCocoLibrary_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		4BDC45EAEDADCA8E69A8CB96 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4BDC45EAEDADCA8E69A8CB96 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5D2320356830B678B61073B2 /* Pods-MyCocoLibrary_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyCocoLibrary_Example.release.xcconfig"; path = "Target Support Files/Pods-MyCocoLibrary_Example/Pods-MyCocoLibrary_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* MyCocoLibrary_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCocoLibrary_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -156,7 +156,6 @@
 				AA00A569089DD0DA3F9A2B36 /* Pods-MyCocoLibrary_Tests.debug.xcconfig */,
 				D43C5DF3117AB9716234E4CF /* Pods-MyCocoLibrary_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
